@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ![](prasanjit_singh.gif)
 
