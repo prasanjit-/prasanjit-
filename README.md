@@ -1,5 +1,5 @@
 ![](prasanjit_singh.gif)
-
+![](wordcloud.svg)
 
 <a href="https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1"><img src="https://img.shields.io/badge/BINPIPE-YouTube-red" alt="YouTube_Channel"></a>
 <a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/BINPIPE-Learning_Resources-orange" alt="Learning"></a>
