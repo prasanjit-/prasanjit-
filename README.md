@@ -1,4 +1,15 @@
-![https://www.linkedin.com/in/prasanjit-singh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/prasanjit-singh/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/binpipe">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 ![](prasanjit_singh.gif)
 
 ---
