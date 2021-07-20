@@ -15,7 +15,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [DevOps Episodes 03 | AWS User Group Malta, Europe | Prasanjit Singh](https://www.youtube.com/watch?v=jOSaMZTCi4Q)
+- [Prospects in Cloud & DevOps for Freshers | VIT Bhopal | Prasanjit Singh](https://www.youtube.com/watch?v=VkJEdGX-0XE)
+- [AWS CloudFront Functions with Live Demonstration | Serhii Vasylenko & Prasanjit Singh](https://www.youtube.com/watch?v=_uh6nbN-Zdk)
+- [Measuring the Impact of DevOps | Open Space conversation | DevOpsDays Amsterdam'21 | Prasanjit Singh](https://www.youtube.com/watch?v=S5o_Tc52yhk)
+- [DevOps Episodes 02 | AWS User Group Malta, Europe | Prasanjit Singh](https://www.youtube.com/watch?v=0p35-b4Uihw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
