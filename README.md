@@ -17,11 +17,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google BigQuery Explanation & Demonstration](https://www.youtube.com/watch?v=R8Z0KTWcgdQ)
 - [About AWS Graviton 2 Instances | Prasanjit Singh](https://www.youtube.com/watch?v=niMyp38z7lQ)
 - [Automated CI/CD With AWS CodePipeline Using CloudFormation | DevOps IaC | Prasanjit Singh](https://www.youtube.com/watch?v=TQOMqwYuCoY)
 - [Build ECS Cluster from scratch using Terraform & Deploy a NodeJS React App | Prasanjit Singh](https://www.youtube.com/watch?v=hRSvdDIubOE)
 - [DevOps Episodes 03 | AWS User Group Malta, Europe | Prasanjit Singh](https://www.youtube.com/watch?v=jOSaMZTCi4Q)
-- [Prospects in Cloud & DevOps for Freshers | VIT Bhopal | Prasanjit Singh](https://www.youtube.com/watch?v=VkJEdGX-0XE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
