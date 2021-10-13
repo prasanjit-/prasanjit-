@@ -17,11 +17,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Create Software Architecture Diagrams | Solution Architecture | Prasanjit Singh](https://www.youtube.com/watch?v=696D2oL7l0U)
 - [Why was Facebook Instagram Whatsapp Down? | BGP Explained | Prasanjit Singh](https://www.youtube.com/watch?v=UsfMvd3dSCg)
 - [Google BigQuery Explanation & Demonstration](https://www.youtube.com/watch?v=R8Z0KTWcgdQ)
 - [About AWS Graviton 2 Instances | Prasanjit Singh](https://www.youtube.com/watch?v=niMyp38z7lQ)
 - [Automated CI/CD With AWS CodePipeline Using CloudFormation | DevOps IaC | Prasanjit Singh](https://www.youtube.com/watch?v=TQOMqwYuCoY)
-- [Build ECS Cluster from scratch using Terraform & Deploy a NodeJS React App | Prasanjit Singh](https://www.youtube.com/watch?v=hRSvdDIubOE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
