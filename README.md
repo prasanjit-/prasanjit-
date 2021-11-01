@@ -17,11 +17,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Live Cricket Streaming Works? | Part 2 Video Streaming | T20 World Cup | Prasanjit Singh](https://www.youtube.com/watch?v=_eckmESbhys)
 - [How Live Cricket Streaming Works? | Part 1 Technology at the Venue | T20 World Cup | Prasanjit Singh](https://www.youtube.com/watch?v=gmcV_f1nEGY)
 - [Software Architecture Design Patterns | Prasanjit Singh](https://www.youtube.com/watch?v=P0NRcEBhWf0)
 - [How to Create Software Architecture Diagrams | Solution Architecture | Prasanjit Singh](https://www.youtube.com/watch?v=696D2oL7l0U)
 - [Why was Facebook Instagram Whatsapp Down? | BGP Explained | Prasanjit Singh](https://www.youtube.com/watch?v=UsfMvd3dSCg)
-- [Google BigQuery Explanation & Demonstration](https://www.youtube.com/watch?v=R8Z0KTWcgdQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
