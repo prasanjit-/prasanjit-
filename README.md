@@ -17,11 +17,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AWS Outage &amp; the Need for Multi Cloud ☁️](https://www.youtube.com/watch?v=_sR-fO-rQLc)
 - [How Live Cricket Streaming Works? | PART 3 OTT Platform Architecture | Prasanjit Singh](https://www.youtube.com/watch?v=XxKXewh4rcM)
 - [How Live Cricket Streaming Works? | Part 2 Video Streaming | T20 World Cup | Prasanjit Singh](https://www.youtube.com/watch?v=_eckmESbhys)
 - [How Live Cricket Streaming Works? | Part 1 Technology at the Venue | T20 World Cup | Prasanjit Singh](https://www.youtube.com/watch?v=gmcV_f1nEGY)
 - [Software Architecture Design Patterns | Prasanjit Singh](https://www.youtube.com/watch?v=P0NRcEBhWf0)
-- [How to Create Software Architecture Diagrams | Solution Architecture | Prasanjit Singh](https://www.youtube.com/watch?v=696D2oL7l0U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
