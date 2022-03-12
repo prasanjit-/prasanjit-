@@ -16,11 +16,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Cloud Architect | Session 3 | Cloud Identity | Prasanjit Singh](https://www.youtube.com/watch?v=eYhMPyHrtB8)
 - [Google Professional Cloud Architect | Session 2 | Overview of Google Cloud | Prasanjit Singh](https://www.youtube.com/watch?v=Hdxt9UpLkxQ)
 - [Google Professional Cloud Architect Essentials | Session 1 | Prasanjit Singh](https://www.youtube.com/watch?v=B6FQXs8uj10)
 - [AWS Cloud Engineer Interview | 250 Questions &amp; Answers with Concentration Study Music](https://www.youtube.com/watch?v=T-_RswGzES0)
 - [AWS Outage &amp; the Need for Multi Cloud ☁️](https://www.youtube.com/watch?v=_sR-fO-rQLc)
-- [How Live Cricket Streaming Works? | PART 3 OTT Platform Architecture | Prasanjit Singh](https://www.youtube.com/watch?v=XxKXewh4rcM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
