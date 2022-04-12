@@ -16,11 +16,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Import preexisting AWS Infrastructure to Terraform using Terraformer | Prasanjit Singh](https://www.youtube.com/watch?v=Aq7NIACyDQQ)
 - [Terraforming Alibaba Cloud | Prasanjit Singh](https://www.youtube.com/watch?v=b4RYfvhQNC0)
 - [Azure Cloud Overview &amp; Signing In | Azure VM Basics : Session 1 | Prasanjit Singh](https://www.youtube.com/watch?v=Kuu_2cv0cgc)
 - [Google Cloud Architect | Session 3 | Cloud Identity | Prasanjit Singh](https://www.youtube.com/watch?v=eYhMPyHrtB8)
 - [Google Professional Cloud Architect | Session 2 | Overview of Google Cloud | Prasanjit Singh](https://www.youtube.com/watch?v=Hdxt9UpLkxQ)
-- [Google Professional Cloud Architect Essentials | Session 1 | Prasanjit Singh](https://www.youtube.com/watch?v=B6FQXs8uj10)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
