@@ -16,11 +16,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mountkirk Games Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=Ki69zX6UZJ0)
+- [Helicopter Racing League Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=beaA9ZoOxB8)
+- [TerramEarth Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=4D_nBj4OdlE)
+- [EHR Healthcare Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=FI7R_pebRmc)
 - [100 Minutes of Google Cloud | Complete GCP Crash Course | Prasanjit Singh](https://www.youtube.com/watch?v=YHtC6SVa2dk)
-- [How SSL &lpar;TLS&rpar; Works? | Prasanjit Singh](https://www.youtube.com/watch?v=7biieskowJ4)
-- [Import preexisting AWS Infrastructure to Terraform using Terraformer | Prasanjit Singh](https://www.youtube.com/watch?v=Aq7NIACyDQQ)
-- [Terraforming Alibaba Cloud | Prasanjit Singh](https://www.youtube.com/watch?v=b4RYfvhQNC0)
-- [Azure Cloud Overview &amp; Signing In | Azure VM Basics : Session 1 | Prasanjit Singh](https://www.youtube.com/watch?v=Kuu_2cv0cgc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
