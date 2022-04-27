@@ -16,11 +16,11 @@
 ### 📺 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [An Attempt To Understand &amp; Explain Web 3.0 | Prasanjit Singh](https://www.youtube.com/watch?v=ch4YqJ2kAyU)
 - [Mountkirk Games Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=Ki69zX6UZJ0)
 - [Helicopter Racing League Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=beaA9ZoOxB8)
 - [TerramEarth Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=4D_nBj4OdlE)
 - [EHR Healthcare Case Study | Google Cloud Professional Architect | Prasanjit Singh](https://www.youtube.com/watch?v=FI7R_pebRmc)
-- [100 Minutes of Google Cloud | Complete GCP Crash Course | Prasanjit Singh](https://www.youtube.com/watch?v=YHtC6SVa2dk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/binpipe)
