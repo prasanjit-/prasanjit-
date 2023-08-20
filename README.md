@@ -42,8 +42,6 @@
 [<img src="prasanjit_podcast_logo.gif" alt="Cloud Engineering Podcast" width="350" />](https://open.spotify.com/show/56H7h3LHHyMSiAv5i2NurV)
 <hr/>
 
-[**www.binpipe.org**](https://binpipe.org)
-
 <a href="https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1"><img src="https://img.shields.io/badge/BINPIPE-YouTube-red" alt="YouTube_Channel"></a>
 <a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/BINPIPE-Learning_Resources-orange" alt="Learning"></a>
 <a href="https://blog.binpipe.org"><img src="https://img.shields.io/badge/BINPIPE-Blogs_and_Tutorials-blue" alt="Blogs_and_Tutorials"></a>
