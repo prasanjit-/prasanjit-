@@ -43,9 +43,9 @@
 [<img src="prasanjit_podcast_logo.gif" alt="Cloud Engineering Podcast" width="350" />](https://open.spotify.com/show/56H7h3LHHyMSiAv5i2NurV)
 <hr/>
 -->
+<!-- <a href="https://forms.gle/tDJxDyj2nJyfsgsk7"><img src="https://img.shields.io/badge/BINPIPE-Live_Sessions-gold" alt="Sessions"></a> -->
 <a href="https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1"><img src="https://img.shields.io/badge/BINPIPE-YouTube-red" alt="YouTube_Channel"></a>
 <a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/BINPIPE-Learning_Resources-orange" alt="Learning"></a>
 <a href="https://binpipe.blogspot.com"><img src="https://img.shields.io/badge/BINPIPE-Blogs_and_Tutorials-blue" alt="Blogs_and_Tutorials"></a>
-<!-- <a href="https://forms.gle/tDJxDyj2nJyfsgsk7"><img src="https://img.shields.io/badge/BINPIPE-Live_Sessions-gold" alt="Sessions"></a> -->
 <a href="https://www.linkedin.com/in/prasanjit-singh"><img src="https://img.shields.io/badge/Contact-Prasanjit_Singh-black" alt="Prasanjit_Singh"></a>
 <a href="https://guitarbook.quora.com"><img src="https://img.shields.io/badge/♫-Guitar_Notes-silver" alt="Guitar"></a>
