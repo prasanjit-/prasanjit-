@@ -8,9 +8,6 @@
   
 </p>
 
-
-![](prasanjit_singh.gif)
-
 ---
 
 ### 📺 My Latest YouTube Videos
